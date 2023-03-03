@@ -1,0 +1,528 @@
+#resumePage
+{
+ margin: 0px auto;
+ padding-bottom: auto;
+ padding-left: 10px;
+ padding-right: 1000px;
+ background-color: white;
+ border: 1px solid;
+ margin-bottom: 10%;
+ color: black;
+}
+
+#resumePage1
+{
+ margin: 0px auto;
+ padding-bottom: 580px;
+ padding-left: 50px;
+ padding-right: 1000px;
+ background-image:url('../img/form background.png');
+ margin-bottom: 10%;
+}
+#JONUM
+{
+ position: absolute;
+ margin-top: 30px;
+}
+#jobtitle
+{
+ position: absolute;
+ margin-top: 40px;
+}
+
+#valuejobtitle
+{
+  position: absolute;
+  margin-top: 80px;
+  font-size: 20px;
+}
+
+#titledesc
+{
+  position: absolute;
+  margin-top: 120px;
+}
+
+#photoresume
+
+	{
+
+ position: absolute;
+ width:200px;
+ height: 140px;
+ margin-left: 780px;
+ margin-top: 0px auto;
+ border: 1px solid;
+
+}
+
+
+#valuedesc
+{
+  position: absolute;
+  margin-top: 150px;
+  padding-right:300px;
+  font-size: 20px;
+}
+
+#titlereq
+{
+position: absolute;
+  margin-top: 240px;
+}
+
+#valuereq
+{
+position: absolute;
+ margin-top: 270px;
+ font-size: 20px;
+   padding-right:300px;
+}
+
+#titledatepos
+{
+  position: absolute;
+  margin-top: 360px;
+}
+
+#valuedatepos
+{
+position: absolute;
+ margin-top: 400px;
+ font-size: 20px;
+}
+
+#applynow
+{
+	position: absolute;
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 20px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 450px;
+}
+
+
+/*E-Resume*/
+#fnametitle
+{
+	position: absolute;
+}
+
+#valuefname
+{
+	position: absolute;
+	margin-top: 30px;
+	width: auto;
+}
+
+#mnametitle
+{
+	position: absolute;
+	margin-left: 220px;
+}
+
+#valuemname
+{
+	position: absolute;
+	margin-top: 30px;
+	margin-left: 220px;
+}
+
+#lnametitle
+{
+	position: absolute;
+	margin-left: 440px;
+
+}
+
+#valuelname
+{
+	position: absolute;
+	margin-top: 30px;
+	margin-left: 440px;
+}
+
+#suffixtitle
+{
+	position: absolute;
+	margin-left: 670px;
+
+}
+
+#valuesuffix
+{
+	position: absolute;
+	margin-top: 30px;
+	margin-left: 670px;
+}
+
+#birthdaytitle
+{
+	position: absolute;
+	margin-top: 40px;
+}
+
+#valuebirthday
+{
+	position: absolute;
+	margin-top: 70px;
+	width: 100px;
+}
+
+#agetitle
+{
+	position: absolute;
+	margin-top: 40px;
+	margin-left: 170px;
+
+}
+
+#valueage
+{
+	position: absolute;
+	margin-top: 70px;
+	margin-left: 175px;
+	width: 60px;
+}
+
+#gendertitle
+{
+	position: absolute;
+	margin-top: 40px;
+	margin-left: 300px;
+}
+
+#valuegender
+{
+	position: absolute;
+	margin-top: 70px;
+	margin-left: 300px;
+	width: 100px;
+}
+
+
+#civilstattitle
+{
+	position: absolute;
+	margin-top: 40px;
+}
+
+#valuecivilstat
+{
+	position: absolute;
+	margin-top: 70px;
+  width: 120px;
+}
+
+#addtitle
+{
+	position: absolute;
+	margin-top: 40px;
+	margin-left: 490px;
+}
+
+#valueadd
+{
+	position: absolute;
+	margin-top: 70px;
+	margin-left: 490px;
+	width: 300px;
+	height: 70px;
+}
+
+#paddtitle
+{
+	position: absolute;
+	margin-top: 40px;
+	margin-left: 185px;
+
+}
+
+#valuepadd
+{
+	position: absolute;
+	margin-top: 70px;
+	margin-left: 185px;
+	width: 280px;
+	height: 70px;
+}
+
+#titleemail
+{
+	position: absolute;
+	margin-top: 40px;
+	margin-left: 170px;
+}
+
+#emailvalue
+{
+	position: absolute;
+	margin-top: 70px;
+	margin-left: 170px;
+	width: 500px;
+}
+
+#contactpersontitle
+{
+	position: absolute;
+}
+
+#titlecontact
+{
+	position: absolute;
+	margin-top: 40px;
+}
+
+#valuecontact
+{
+	position: absolute;
+	margin-top: 70px;
+	width: 115PX;
+}
+
+#titleconatctname
+{
+	position: absolute;
+	margin-top: 50px;
+}
+
+#valuenameofcntcprsn
+{
+	position: absolute;
+	margin-top: 80px;
+}
+#titlecontactprsn
+{
+	position: absolute;
+	margin-top: 50px;
+	margin-left: 300px;
+}
+
+#valuecontactprsn
+{
+	position: absolute;
+	margin-top: 80px;
+	margin-left: 300px;
+}
+
+#Educationalbackgroundtitle
+{
+	position: absolute;
+}
+
+
+#valuenameofschool
+{
+	position: absolute;
+	margin-top: 80px;
+	margin-left: 180px;
+	width: 400px;
+}
+
+#titleschool
+{
+	position: absolute;
+	margin-top: 50px;
+	margin-left: 180px;
+}
+
+#titleschooladd
+{
+	position: absolute;
+	margin-top: 50px;
+	margin-left: 600px;
+}
+#valueaddschool
+{
+	position: absolute;
+	margin-top: 80px;
+	margin-left: 600px;
+	width: 370px;
+}
+
+#valuenameofschoolsec
+{
+	position: absolute;
+	margin-top: 120px;
+	margin-left: 180px;
+  width: 400px;
+}
+
+#valuenameofschoolter
+{
+	position: absolute;
+	margin-top: 160px;
+	margin-left: 180px;
+	width: 400px;
+}
+
+#valueaddschoolsec
+{
+	position: absolute;
+	margin-top: 120px;
+	margin-left: 600px;
+  width: 370px;
+}
+
+#valueaddschoolter
+{
+	position: absolute;
+	margin-top: 160px;
+	margin-left: 600px;
+	width: 370px;
+}
+
+#titleschooladd
+{
+	position: absolute;
+	margin-top: 50px;
+	margin-left: 600px;
+}
+
+#coursefield
+{
+	position: absolute;
+	margin-top: 220px;
+}
+
+#valuecourse
+{
+	position: absolute;
+	margin-top: 220px;
+	margin-left: 150px;
+}
+
+#educlevel
+{
+	position: absolute;
+	margin-top: 220px;
+	margin-left: 400px;
+}
+
+#valuelevel
+{
+	position: absolute;
+	margin-top: 220px;
+	margin-left: 640px;
+}
+
+#titlePrime
+{
+	position: absolute;
+	margin-top: 80px;
+}
+
+#titlesec
+{
+  position: absolute;
+	margin-top: 120px;
+}
+
+#titleter
+{
+  position: absolute;
+	margin-top: 160px;
+}
+
+#valueskill1
+{
+	margin-bottom: 10px;
+	width: 900px;
+}
+
+#valueskill2
+{
+	margin-bottom: 10px;
+	width: 900px;
+}
+
+#valueskill3
+{
+	margin-bottom: 10px;
+	width: 900px;
+}
+
+#valueskill4
+{
+	margin-bottom: 10px;
+	width: 900px;
+}
+
+#valueskill5
+{
+ width: 900px;
+}
+
+#line
+{
+ position:relative;
+ border: 1px solid;
+ padding-bottom: 100px;
+ padding-left: 10px;
+ padding-right:980px;
+}
+
+#line1
+{
+ position:relative;
+ border: 1px solid;
+ padding-bottom: 150px;
+ padding-left: 10px;
+ padding-right:980px;
+ padding-top: auto;
+}
+
+#line2
+{
+ position:relative;
+ border: 1px solid;
+ padding-bottom: 150px;
+ padding-left: 10px;
+ padding-right:980px;
+ padding-top: auto;
+}
+
+#line3
+{
+ position:relative;
+ border: 1px solid;
+ padding-bottom: 150px;
+ padding-left: 10px;
+ padding-right:980px;
+ padding-top: auto;
+}
+
+#line4
+{
+ position:relative;
+ border: 1px solid;
+ padding-bottom: 150px;
+ padding-left: 10px;
+ padding-right:980px;
+ padding-top: auto;
+}
+
+#line5
+{
+ position:relative;
+ border: 1px solid;
+ padding-bottom: 260px;
+ padding-left: 10px;
+ padding-right:980px;
+ padding-top: auto;
+}
+
+#line6
+{
+ position:relative;
+ border: 1px solid;
+ padding-bottom: 70px;
+ padding-left: 10px;
+ padding-right:980px;
+ padding-top: auto;
+}

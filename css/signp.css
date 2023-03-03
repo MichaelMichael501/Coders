@@ -1,0 +1,479 @@
+#country
+{
+width: 20%;
+}
+
+#image-gallery
+{
+  width: 50%;
+}
+
+#signupbody
+{
+overflow-y: scroll;
+background-repeat: no-repeat;background-size: cover;
+}
+#mregistration
+{
+  background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 20px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+#btn1
+{
+  background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 20px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+#btn2
+{
+  background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 20px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+#toggle1
+{
+  background-color: #0E2438 ;
+    border: none;
+    color: white;
+    padding: 20px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+#toggle2
+{
+  position: absolute;
+  margin-left: 150px;
+  background-color: #0E2438 ;
+    border: none;
+    color: white;
+    padding: 20px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: none;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+#inserphoto
+{
+ background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+ position: absolute;
+ margin-left: 40%;
+ margin-bottom:100px;
+ padding-top: 150px;
+ padding-right: 150px;
+ padding-left: 170px;
+ padding-bottom: 120px;
+}
+#inserphoto2
+{
+ position: absolute;
+ margin-left: 40%;
+ margin-top:300px;
+}
+
+#membership2
+{
+  border: 2px solid;
+  padding: 20px;
+}
+#membership
+{
+  position: absolute;
+  border: 2px solid;
+  padding: 20px;
+  margin-left: 20%;
+}
+
+#fname
+{
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+  margin-left: 1px;
+  background-color: rgb(255, 255, 255);
+  border: solid 1px;
+  width: 50%;
+  height: 30px;
+  display: block;
+  transition: all 0.3s;
+  margin-bottom: 10px;
+}
+#date
+{
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+  margin-left: 1px;
+  background-color: rgb(255, 255, 255);
+  border: solid 1px;
+  width: 50%;
+  height: 30px;
+  display: block;
+  transition: all 0.3s;
+  margin-bottom: 10px;
+}
+
+#bday
+{
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+  margin-left: 1px;
+  background-color: rgb(255, 255, 255);
+  border: solid 1px;
+  width: 50%;
+  height: 30px;
+  display: block;
+  transition: all 0.3s;
+  margin-bottom: 10px;
+}
+
+#mname
+{
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+  margin-left: 1px;
+  background-color: rgb(255, 255, 255);
+  border: solid 1px;
+  width: 50%;
+  height: 30px;
+  display: block;
+  transition: all 0.3s;
+  margin-bottom: 10px;
+}
+#lname
+{
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+  margin-left: 1px;
+  background-color: rgb(255, 255, 255);
+  border: solid 1px;
+  width: 50%;
+  height: 30px;
+  display: block;
+  transition: all 0.3s;
+  margin-bottom: 10px;
+}
+#suffix
+{
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+  margin-left: 1px;
+  background-color: rgb(255, 255, 255);
+  border: solid 1px;
+  width: 20%;
+  height: 30px;
+  display: block;
+  transition: all 0.3s;
+  margin-bottom: 10px;
+}
+
+#age
+{
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+  margin-left: 1px;
+  background-color: rgb(255, 255, 255);
+  border: solid 1px;
+  width: 20%;
+  height: 30px;
+  display: block;
+  transition: all 0.3s;
+  margin-bottom: 10px;
+}
+
+/*End of Permanent Address style*/
+#paddress
+{
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+  margin-left: 1px;
+  background-color: rgb(255, 255, 255);
+  border: solid 1px;
+  width: 70%;
+  height: 30px;
+  display: block;
+  transition: all 0.3s;
+}
+#paddresscity
+{
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+  background-color: rgb(255, 255, 255);
+  border: solid 1px;
+  width: 30%;
+  height: 30px;
+  display: block;
+  transition: all 0.3s;
+}
+#paddressstate
+{
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+  background-color: rgb(255, 255, 255);
+  border: solid 1px;
+  width: 70%;
+  height: 30px;
+  display: block;
+  transition: all 0.3s;
+  margin-bottom: 10px;
+}
+/*End of Permanent Address style*/
+
+/*End of Current Address style*/
+#caddress
+{
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+  margin-left: 1px;
+  background-color: rgb(255, 255, 255);
+  border: solid 1px;
+  width: 70%;
+  height: 30px;
+  display: block;
+  transition: all 0.3s;
+}
+#caddresscity
+{
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+  background-color: rgb(255, 255, 255);
+  border: solid 1px;
+  width: 30%;
+  height: 30px;
+  display: block;
+  transition: all 0.3s;
+}
+#caddressstate
+{
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+  background-color: rgb(255, 255, 255);
+  border: solid 1px;
+  width: 70%;
+  height: 30px;
+  display: block;
+  transition: all 0.3s;
+  margin-bottom: 10px;
+}
+/*End of Current Address style*/
+
+#email
+{
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+  background-color: rgb(255, 255, 255);
+  border: solid 1px;
+  width: 70%;
+  height: 30px;
+  display: block;
+  transition: all 0.3s;
+  margin-bottom: 10px;
+}
+
+#contact
+{
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+  margin-left: 1px;
+  background-color: rgb(255, 255, 255);
+  border: solid 1px;
+  width: 40%;
+  height: 30px;
+  display: block;
+  transition: all 0.3s;
+  margin-bottom: 10px;
+}
+#prscontactname
+{
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+  margin-left: 1px;
+  background-color: rgb(255, 255, 255);
+  border: solid 1px;
+  width: 50%;
+  height: 30px;
+  display: block;
+  transition: all 0.3s;
+  margin-bottom: 10px;
+}
+
+#prscontact
+{
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+  margin-left: 1px;
+  background-color: rgb(255, 255, 255);
+  border: solid 1px;
+  width: 50%;
+  height: 30px;
+  display: block;
+  transition: all 0.3s;
+  margin-bottom: 10px;
+}
+
+#fromyear
+{
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+  margin-left: 1px;
+  background-color: rgb(255, 255, 255);
+  border: solid 1px;
+  width: 18%;
+  height: 30px;
+  display: block;
+  transition: all 0.3s;
+  margin-bottom: 10px;
+}
+
+#toyear
+{
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+  margin-left: 1px;
+  background-color: rgb(255, 255, 255);
+  border: solid 1px;
+  width: 18%;
+  height: 30px;
+  display: block;
+  transition: all 0.3s;
+  margin-bottom: 10px;
+}
+
+#firstPage
+{
+  overflow: scroll;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  min-width: 100%;
+  font-family: 'Jost', sans-serif;
+  background-image:url('img/form background.png');
+  outline: 1px solid transparent;
+  box-shadow: 0 0 1px rgba(255, 255, 255, 0);
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom: auto;
+  width:960px;
+  padding-left: 30px;
+  padding-top:0px;
+  padding-bottom: 100px;
+}
+
+#secondPage
+{
+  min-width: 100%;
+  overflow: scroll;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  font-family: 'Jost', sans-serif;
+  background-image:url('img/form background.png');
+  outline: 1px solid transparent;
+    box-shadow: 0 0 1px rgba(255, 255, 255, 0);
+      margin-left:auto;
+    margin-right:auto;
+    width:960px;
+     padding-left: 30px;
+     padding-top:0px;
+     padding-bottom: 1px;
+}
+
+#thirdPage
+{
+  min-width: 100%;
+  overflow: scroll;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  font-family: 'Jost', sans-serif;
+  background-image:url('img/form background.png');
+  outline: 1px solid transparent;
+    box-shadow: 0 0 1px rgba(255, 255, 255, 0);
+      margin-left:auto;
+    margin-right:auto;
+    width:960px;
+     padding-left: 30px;
+     padding-top:0px;
+     padding-bottom: 1px;
+}
+
+#fourthPage
+{
+  min-width: 100%;
+  overflow: scroll;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  font-family: 'Jost', sans-serif;
+  background-image:url('img/form background.png');
+  outline: 1px solid transparent;
+    box-shadow: 0 0 1px rgba(255, 255, 255, 0);
+      margin-left:auto;
+    margin-right:auto;
+    width:960px;
+     padding-left: 30px;
+     padding-top:0px;
+     padding-bottom: 1px;
+}
+
+#fifthPage
+{
+  min-width: 100%;
+  overflow: scroll;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  font-family: 'Jost', sans-serif;
+  background-image:url('img/form background.png');
+  outline: 1px solid transparent;
+    box-shadow: 0 0 1px rgba(255, 255, 255, 0);
+      margin-left:auto;
+    margin-right:auto;
+    width:960px;
+     padding-left: 30px;
+     padding-top:0px;
+     padding-bottom: 1px;
+}
+
+#sixthPage
+{
+  min-width: 100%;
+  overflow: scroll;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  font-family: 'Jost', sans-serif;
+  background-image:url('img/form background.png');
+  outline: 1px solid transparent;
+    box-shadow: 0 0 1px rgba(255, 255, 255, 0);
+      margin-left:auto;
+    margin-right:auto;
+    width:960px;
+     padding-left: 30px;
+     padding-top:0px;
+     padding-bottom: 1px;
+}
+
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}

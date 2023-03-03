@@ -1,0 +1,121 @@
+.image-upload > input {
+  visibility:hidden;
+  width:0;
+  height:0;
+}
+
+#updatepage
+{
+  border: 1px solid;
+  padding-right: 100px;
+  margin-right: 500px;
+  margin-left: 50px;
+  margin-top: 50px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  margin-bottom: auto;
+  border: 3px solid;
+  background-color: white;
+  box-shadow: 10px 10px 5px black;
+  color: black;  
+}
+
+
+#iconedit
+{
+
+
+}
+
+#insertpage
+{
+  border: 3px solid;
+  margin-bottom: 50px;
+  background-color: white;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  box-shadow: 10px 10px 5px black;
+  color: black;
+  margin-bottom: 20px;
+}
+
+#image5
+{
+  width:700px;
+  height: 400px;
+  margin-bottom:10px ;
+}
+
+#comDescriptiontextvalue1
+{
+  width: 700px;
+  height: 400px;
+}
+
+#comDescriptiontextvalue2{width: 700px;
+  height: 400px;}
+
+#update1
+{
+  position: absolute;
+  border: 1px solid;
+  margin-top: 700px;
+}
+
+#imageforemployer
+{
+  height: 300px;
+  width: 500px;
+}
+
+#ViewEmployerProfile
+{
+  border: 1px solid;
+  padding-right: 100px;
+  margin-right: 500px;
+  margin-left: 50px;
+  margin-top: 50px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  margin-bottom: auto;
+  margin-bottom: 50px;
+  background-color: white;
+  box-shadow: 10px 10px 5px black;
+  color: black;
+}
+
+#footeremp
+{
+  position: absolute;
+  margin-top:auto;
+}
+
+#btnedit
+{
+  position: absolute;
+  margin-top: 60px;
+  margin-left: 770px;
+}
+
+#btncancel
+{
+  position: absolute;
+  margin-top: 60px;
+  margin-left: 790px;
+}
+
+#Updatebtn
+{
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 20px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 40px;
+    margin-left: 10px;
+}
